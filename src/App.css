@@ -169,8 +169,8 @@ a { text-decoration: none; color: inherit; }
 .hero-content { flex: 1; max-width: 600px; }
 .hero-badge {
   display: inline-block;
-  background: rgba(245,166,35,.15);
-  color: var(--accent-gold);
+  background: rgba(35, 245, 46, 0.15);
+  color: rgb(30, 141, 13);
   border: 1px solid rgba(245,166,35,.3);
   padding: .35rem 1rem;
   border-radius: 50px;
